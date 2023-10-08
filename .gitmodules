@@ -1,0 +1,3 @@
+[submodule "libs/lib_content"]
+	path = libs/lib_content
+	url = https://github.com/Mr-Mechatronics/lib_content.git
